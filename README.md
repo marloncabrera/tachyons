@@ -7,6 +7,7 @@ Tachyons is a responsive & fast [Hugo](http://gohugo.io) theme made with the ama
 
 ## Contents
 
+- [Usage](#usage)
 - [Options](#options)
   - [Header](#header)
   - [Footer](#footer)
@@ -14,6 +15,42 @@ Tachyons is a responsive & fast [Hugo](http://gohugo.io) theme made with the ama
 - [Author](#author)
 - [Credits](#credits)
 - [License](#license)
+
+## Usage
+
+From [Hugo Quickstart](http://http://gohugo.io/overview/quickstart/):
+
+1. **Install Hugo**
+
+Go to [Hugo Releases](https://github.com/spf13/hugo/releases) and download the appropriate version for your OS and architecture.
+Save the main executable as *hugo* (or *hugo.exe* on Windows) somewhere in your PATH as we will be using it in the next step.
+More complete instructions are available at [Installing Hugo](http://gohugo.io/overview/installing/).
+
+2. **Create a new site & install Tachyon Theme**
+
+```
+$ hugo new site /path/to/site
+$ cd /path/to/site
+$ mkdir themes
+$ cd themes
+$ git clone https://github.com/marloncabrera/tachyons.git
+```
+
+See [Options](#options) below to customize your blog.
+
+3. **Create Some Content**
+
+```
+$ hugo new post/first.md
+```
+
+4. Run Hugo and see the results
+
+```
+$ hugo server --theme=tachyons --buildDrafts --watch
+```
+
+Open your browser at http://localhost:1313 to see the results
 
 ## Options
 
