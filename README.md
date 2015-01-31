@@ -50,7 +50,7 @@ $ hugo new post/first.md
 $ hugo server --theme=tachyons --buildDrafts --watch
 ```
 
-Open your browser at http://localhost:1313 to see the results
+Open your browser at [http://localhost:1313](http://localhost:1313) to see the results.
 
 ## Options
 
