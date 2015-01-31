@@ -1,7 +1,7 @@
 Tachyons
 ==========
 
-Tachyons is a responsive & fast [Hugo](http://gohugo.io) theme made using the amazing [TACHYONS](http://www.tachyons.io) CSS framework & [GEOMICONS](http://geomicons.com).
+Tachyons is a responsive & fast [Hugo](http://gohugo.io) theme made with the amazing [TACHYONS](http://www.tachyons.io) CSS framework & [GEOMICONS](http://geomicons.com).
 
 ![Tachyons screenshot](https://github.com/marloncabrera/tachyons/blob/master/images/tn.png)
 
@@ -12,6 +12,7 @@ Tachyons is a responsive & fast [Hugo](http://gohugo.io) theme made using the am
   - [Footer](#footer)
   - [Icon Reference Table](#icon-reference-table)
 - [Author](#author)
+- [Credits](#credits)
 - [License](#license)
 
 ## Options
@@ -105,7 +106,6 @@ Icon    | ID
 ![info](http://jxnblk.github.io/geomicons-open/icons/info.svg) | info
 ![link](http://jxnblk.github.io/geomicons-open/icons/link.svg) | link
 ![list](http://jxnblk.github.io/geomicons-open/icons/list.svg) | list
-![loading](http://jxnblk.github.io/geomicons-open/icons/loading.svg) | loading (not available in JavaScript version)
 ![lock](http://jxnblk.github.io/geomicons-open/icons/lock.svg) | lock
 ![mail](http://jxnblk.github.io/geomicons-open/icons/mail.svg) | mail
 ![music-note](http://jxnblk.github.io/geomicons-open/icons/music-note.svg) | music-note
@@ -134,3 +134,31 @@ Icon    | ID
 ![user](http://jxnblk.github.io/geomicons-open/icons/user.svg) | user
 ![video](http://jxnblk.github.io/geomicons-open/icons/video.svg) | video
 ![warning](http://jxnblk.github.io/geomicons-open/icons/warning.svg) | warning
+
+
+## Author
+**Marlon Cabrera Oliveira**
+- <http://nolram.com>
+- <http://github.com/marloncabrera>
+- <http://twitter.com/marloncabrera>
+
+## Credits
+**Steve Francia**
+- <http://gohugo.io>
+- <https://github.com/spf13>
+- <https://twitter.com/spf13>
+
+**Adam Morse**
+- <http://tachyons.io>
+- <http://github.com/mrmrs>
+- <http://twitter.com/mrmrs_>
+
+**Brent Jackson**
+- <http://geomicons.com>
+- <http://github.com/jxnblk>
+- <http://twitter.com/jxnblk>>
+
+
+##License
+
+Open sourced under the [MIT license](license.md).
