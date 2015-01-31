@@ -23,7 +23,7 @@ Customize your blog editing the header & footer under themes/tachyons/layouts/pa
 ### Header
 
 Replace "Your_blog_name_here" to change your new Blog name.
-If you need to create more sections, you have to add the section name to the nav menu like the example below, then pick up one from [Icon Reference Table](#icon-reference-table).
+If you need to create more sections, you have to add the section name to the nav menu like the example below, then pick up a specific icon from [Icon Reference Table](#icon-reference-table).
 
 
 ```html
