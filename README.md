@@ -10,7 +10,7 @@ Tachyons is a responsive & fast [Hugo](http://gohugo.io) theme made using the am
 - [Options](#options)
   - [Header](#header)
   - [Footer](#footer)
-  - [Icon Reference Table](#icon)
+  - [Icon Reference Table](#icon-reference-table)
 - [Author](#author)
 - [License](#license)
 
@@ -22,7 +22,8 @@ Customize your blog editing the header & footer under themes/tachyons/layouts/pa
 ### Header
 
 Replace "Your_blog_name_here" to change your new Blog name.
-If you need to create more sections, you can need to add the section name to the nav menu, then pick up a specific icon from reference table [below](#icon).
+If you need to create more sections, you have to add the section name to the nav menu like the example below, then pick up one from [Icon Reference Table](#icon-reference-table).
+
 
 ```html
 <!DOCTYPE html>
@@ -45,7 +46,34 @@ If you need to create more sections, you can need to add the section name to the
         </header>
 ```
 
-## Icon Reference Table
+### Footer
+
+On footer.html you can customize or remove the links to Github or Twitter and include Google Analytics javascript code between the ```<script> ...</script>``` tags along with Geomicons portion.
+
+
+```html
+footer class="tc center bt b--near-white pvx phm pax-m phxl-l pvx-l">
+<small class="f5 mw7 db center phm lh-copy">
+<nav>
+<ul class="list pln">
+<li class="dib prm"><a href="https://www.github.com"><span class="js-geomicon geomicon blue" data-icon="github"></span></a></li>
+<li class="dib prm"><a href="https://www.twitter.com"><span class="js-geomicon geomicon blue" data-icon="twitter"></span></a></li>
+</ul>
+</nav>
+Copyright-  2015
+</small>
+</footer>
+<script src="http://d2v52k3cl9vedd.cloudfront.net/geomicons/0.2.0/geomicons.min.js.gz"></script>
+<script>
+var icons = document.querySelectorAll('.geomicon');
+Geomicons.inject(icons);
+</script>
+</body>
+</html>
+```
+
+
+### Icon Reference Table
 
 Icon    | ID
 --------|--------
@@ -106,5 +134,3 @@ Icon    | ID
 ![user](http://jxnblk.github.io/geomicons-open/icons/user.svg) | user
 ![video](http://jxnblk.github.io/geomicons-open/icons/video.svg) | video
 ![warning](http://jxnblk.github.io/geomicons-open/icons/warning.svg) | warning
-
-
