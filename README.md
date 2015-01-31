@@ -10,6 +10,7 @@ Tachyons is a responsive & fast [Hugo](http://gohugo.io) theme made using the am
 - [Options](#options)
   - [Header](#header)
   - [Footer](#footer)
+  - [Icon Reference Table](#icon)
 - [Author](#author)
 - [License](#license)
 
@@ -20,22 +21,16 @@ Customize your blog editing the header & footer under themes/tachyons/layouts/pa
 
 ### Header
 
+Replace "Your_blog_name_here" to change your new Blog name.
+If you need to create more sections, you can need to add the section name to the nav menu, then pick up a specific icon from reference table [below](#icon).
+
 ```html
 <!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=Edge">
-    <meta name="author" content="Marlon Cabrera Oliveira">
-    <meta name="description" content="Hugo theme using tachyons.io & geomicons.com">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700" rel="stylesheet">
-    <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=PT+Sans:400,700,400italic,700italic|PT+Mono&amp;subset=latin,cyrillic">
-    <link rel="stylesheet" href="/css/tachyons.css">
-    <style>
-        .geomicon { width: 1.5em; height: 1.5em; color: #405660; }
-        body{ font-family:'PT Sans', sans-serif; }
-    </style>
+    ...
+    ...
   </head>
   <body>
       <header class="tc pal bb b-near-white">
@@ -50,5 +45,66 @@ Customize your blog editing the header & footer under themes/tachyons/layouts/pa
         </header>
 ```
 
+## Icon Reference Table
+
+Icon    | ID
+--------|--------
+![bookmark](http://jxnblk.github.io/geomicons-open/icons/bookmark.svg) | bookmark
+![calendar](http://jxnblk.github.io/geomicons-open/icons/calendar.svg) | calendar
+![camera](http://jxnblk.github.io/geomicons-open/icons/camera.svg) | camera
+![chat](http://jxnblk.github.io/geomicons-open/icons/chat.svg) | chat
+![check](http://jxnblk.github.io/geomicons-open/icons/check.svg) | check
+![chevron-down](http://jxnblk.github.io/geomicons-open/icons/chevron-down.svg) | chevron-down
+![chevron-left](http://jxnblk.github.io/geomicons-open/icons/chevron-left.svg) | chevron-left
+![chevron-right](http://jxnblk.github.io/geomicons-open/icons/chevron-right.svg) | chevron-right
+![chevron-up](http://jxnblk.github.io/geomicons-open/icons/chevron-up.svg) | chevron-up
+![clock](http://jxnblk.github.io/geomicons-open/icons/clock.svg) | clock
+![close](http://jxnblk.github.io/geomicons-open/icons/close.svg) | close
+![cloud](http://jxnblk.github.io/geomicons-open/icons/cloud.svg) | cloud
+![cog](http://jxnblk.github.io/geomicons-open/icons/cog.svg) | cog
+![compose](http://jxnblk.github.io/geomicons-open/icons/compose.svg) | compose
+![dribbble](http://jxnblk.github.io/geomicons-open/icons/dribbble.svg) | dribbble
+![expand](http://jxnblk.github.io/geomicons-open/icons/expand.svg) | expand
+![external](http://jxnblk.github.io/geomicons-open/icons/external.svg) | external
+![facebook](http://jxnblk.github.io/geomicons-open/icons/facebook.svg) | facebook
+![file](http://jxnblk.github.io/geomicons-open/icons/file.svg) | file
+![folder](http://jxnblk.github.io/geomicons-open/icons/folder.svg) | folder
+![geolocation](http://jxnblk.github.io/geomicons-open/icons/geolocation.svg) | geolocation
+![github](http://jxnblk.github.io/geomicons-open/icons/github.svg) | github
+![grid](http://jxnblk.github.io/geomicons-open/icons/grid.svg) | grid
+![heart](http://jxnblk.github.io/geomicons-open/icons/heart.svg) | heart
+![home](http://jxnblk.github.io/geomicons-open/icons/home.svg) | home
+![info](http://jxnblk.github.io/geomicons-open/icons/info.svg) | info
+![link](http://jxnblk.github.io/geomicons-open/icons/link.svg) | link
+![list](http://jxnblk.github.io/geomicons-open/icons/list.svg) | list
+![loading](http://jxnblk.github.io/geomicons-open/icons/loading.svg) | loading (not available in JavaScript version)
+![lock](http://jxnblk.github.io/geomicons-open/icons/lock.svg) | lock
+![mail](http://jxnblk.github.io/geomicons-open/icons/mail.svg) | mail
+![music-note](http://jxnblk.github.io/geomicons-open/icons/music-note.svg) | music-note
+![next](http://jxnblk.github.io/geomicons-open/icons/next.svg) | next
+![no](http://jxnblk.github.io/geomicons-open/icons/no.svg) | no
+![pause](http://jxnblk.github.io/geomicons-open/icons/pause.svg) | pause
+![picture](http://jxnblk.github.io/geomicons-open/icons/picture.svg) | picture
+![pin](http://jxnblk.github.io/geomicons-open/icons/pin.svg) | pin
+![play](http://jxnblk.github.io/geomicons-open/icons/play.svg) | play
+![previous](http://jxnblk.github.io/geomicons-open/icons/previous.svg) | previous
+![refresh](http://jxnblk.github.io/geomicons-open/icons/refresh.svg) | refresh
+![repost](http://jxnblk.github.io/geomicons-open/icons/repost.svg) | repost
+![search](http://jxnblk.github.io/geomicons-open/icons/search.svg) | search
+![shopping-cart](http://jxnblk.github.io/geomicons-open/icons/shopping-cart.svg) | shopping-cart
+![skull](http://jxnblk.github.io/geomicons-open/icons/skull.svg) | skull
+![speaker-volume](http://jxnblk.github.io/geomicons-open/icons/speaker-volume.svg) | speaker-volume
+![speaker](http://jxnblk.github.io/geomicons-open/icons/speaker.svg) | speaker
+![star](http://jxnblk.github.io/geomicons-open/icons/star.svg) | star
+![tag](http://jxnblk.github.io/geomicons-open/icons/tag.svg) | tag
+![trash](http://jxnblk.github.io/geomicons-open/icons/trash.svg) | trash
+![triangle-down](http://jxnblk.github.io/geomicons-open/icons/triangle-down.svg) | triangle-down
+![triangle-left](http://jxnblk.github.io/geomicons-open/icons/triangle-left.svg) | triangle-left
+![triangle-right](http://jxnblk.github.io/geomicons-open/icons/triangle-right.svg) | triangle-right
+![triangle-up](http://jxnblk.github.io/geomicons-open/icons/triangle-up.svg) | triangle-up
+![twitter](http://jxnblk.github.io/geomicons-open/icons/twitter.svg) | twitter
+![user](http://jxnblk.github.io/geomicons-open/icons/user.svg) | user
+![video](http://jxnblk.github.io/geomicons-open/icons/video.svg) | video
+![warning](http://jxnblk.github.io/geomicons-open/icons/warning.svg) | warning
 
 
