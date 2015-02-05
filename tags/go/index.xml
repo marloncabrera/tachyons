@@ -3,7 +3,7 @@
   <channel>
       <title>Go on Tachyons Hugo Themes </title>
       <generator uri="https://hugo.spf13.com">Hugo</generator>
-    <link>http://localhost:1313/tachyons/tags/go/index.xml/</link>
+    <link>https://marloncabrera.github.io/tachyons/tags/go/index.xml/</link>
     
     
     <copyright>Copyright (c) 2015.</copyright>
@@ -11,10 +11,10 @@
     
     <item>
       <title>Getting Started with Hugo</title>
-      <link>http://localhost:1313/tachyons/post/hugoisforlovers/</link>
+      <link>https://marloncabrera.github.io/tachyons/post/hugoisforlovers/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 UTC</pubDate>
       
-      <guid>http://localhost:1313/tachyons/post/hugoisforlovers/</guid>
+      <guid>https://marloncabrera.github.io/tachyons/post/hugoisforlovers/</guid>
       <description>
 
 &lt;h2 id=&#34;toc_0&#34;&gt;Step 1. Install Hugo&lt;/h2&gt;
@@ -98,10 +98,10 @@ Having nearly instant feedback enables you to have your creativity flow without 
     
     <item>
       <title>(Hu)go Template Primer</title>
-      <link>http://localhost:1313/tachyons/post/goisforlovers/</link>
+      <link>https://marloncabrera.github.io/tachyons/post/goisforlovers/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 UTC</pubDate>
       
-      <guid>http://localhost:1313/tachyons/post/goisforlovers/</guid>
+      <guid>https://marloncabrera.github.io/tachyons/post/goisforlovers/</guid>
       <description>
 
 &lt;p&gt;Hugo uses the excellent &lt;a href=&#34;http://golang.org/&amp;gt;&#34;&gt;go&lt;/a&gt; &lt;a href=&#34;http://golang.org/pkg/html/template/&amp;gt;&#34;&gt;html/template&lt;/a&gt; library for
