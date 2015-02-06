@@ -3,7 +3,7 @@
   <channel>
       <title>Templates on Tachyons Hugo Themes </title>
       <generator uri="https://hugo.spf13.com">Hugo</generator>
-    <link>https://marloncabrera.github.io/tachyons/tags/templates/index.xml/</link>
+    <link>http://marloncabrera.github.io/tachyons/tags/templates/index.xml/</link>
     
     
     <copyright>Copyright (c) 2015.</copyright>
@@ -11,10 +11,10 @@
     
     <item>
       <title>(Hu)go Template Primer</title>
-      <link>https://marloncabrera.github.io/tachyons/post/goisforlovers/</link>
+      <link>http://marloncabrera.github.io/tachyons/post/goisforlovers/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 UTC</pubDate>
       
-      <guid>https://marloncabrera.github.io/tachyons/post/goisforlovers/</guid>
+      <guid>http://marloncabrera.github.io/tachyons/post/goisforlovers/</guid>
       <description>
 
 &lt;p&gt;Hugo uses the excellent &lt;a href=&#34;http://golang.org/&amp;gt;&#34;&gt;go&lt;/a&gt; &lt;a href=&#34;http://golang.org/pkg/html/template/&amp;gt;&#34;&gt;html/template&lt;/a&gt; library for
