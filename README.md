@@ -3,7 +3,7 @@ Tachyons
 
 Tachyons is a responsive & fast [Hugo](http://gohugo.io) theme made with the amazing [TACHYONS](http://www.tachyons.io) CSS framework & [GEOMICONS](http://geomicons.com).
 
-Please see a demo site [here](https://marloncabrera.github.io/tachyons) and another example [here](http://nolram.com).
+Please see a demo site [here](http://marloncabrera.github.io/tachyons) and another example [here](http://nolram.com).
 
 
 ![Tachyons screenshot](https://github.com/marloncabrera/tachyons/blob/master/images/tn.png)
