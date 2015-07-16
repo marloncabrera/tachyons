@@ -115,6 +115,20 @@ Geomicons.inject(icons);
 
 ### Icon Reference Table
 
+<nav>
+<ul>
+<li><a href="https://www.github.com"><span class="js-geomicon geomicon " data-icon="github"></span></a></li>
+<li><a href="https://www.twitter.com"><span class="js-geomicon geomicon " data-icon="twitter"></span></a></li>
+</ul>
+</nav>
+<script src="http://d2v52k3cl9vedd.cloudfront.net/geomicons/0.2.0/geomicons.min.js.gz"></script>
+<script>
+var icons = document.querySelectorAll('.geomicon');
+Geomicons.inject(icons);
+</script>
+
+
+
 Icon    | ID
 --------|--------
 ![bookmark](https://github.com/jxnblk/geomicons-open/blob/master/dist/icons/bookmark.svg) | bookmark
