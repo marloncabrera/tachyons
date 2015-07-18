@@ -115,9 +115,11 @@ Geomicons.inject(icons);
 
 ### Icon Reference Table
 
+
+
 Icon    | ID
 --------|--------
-![bookmark](https://github.com/jxnblk/geomicons-open/blob/master/dist/icons/bookmark.svg) | bookmark
+![bookmark](https://github.com/jxnblk/geomicons-open/blob/master/dist/icons/bookmark.svg) <img src="https://github.com/jxnblk/geomicons-open/blob/master/dist/icons/bookmark.svg"> | bookmark
 ![calendar](http://jxnblk.github.io/geomicons-open/icons/calendar.svg) | calendar
 ![camera](http://jxnblk.github.io/geomicons-open/icons/camera.svg) | camera
 ![chat](http://jxnblk.github.io/geomicons-open/icons/chat.svg) | chat
