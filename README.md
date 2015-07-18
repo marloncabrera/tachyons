@@ -195,7 +195,7 @@ Icon    | ID
 **Brent Jackson**
 - <http://geomicons.com>
 - <http://github.com/jxnblk>
-- <http://twitter.com/jxnblk>>
+- <http://twitter.com/jxnblk>
 
 
 ##License
